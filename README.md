@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python - mostly  data science 
 - 🌱 I’m currently learning Git and Github  
 - 💞️ I’m looking to collaborate on - probably not at that stage yet
-- 📫 How to reach me at patterson3011@gmail.com
+- 📫 How to reach me at tyrone.c.patterson@gmail.com
 
 <!---
 TechnoGronk/TechnoGronk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
